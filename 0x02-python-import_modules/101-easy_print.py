@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "#pythoniscool"
+import sys; sys.stdout.write("#pythoniscool\n")
